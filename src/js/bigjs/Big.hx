@@ -1,7 +1,7 @@
 package js.bigjs;
 
 @:native("Big")
-class Big {
+extern class Big {
 	public static var DP: Int;
 	public static var RM: RoundingMode;
 
